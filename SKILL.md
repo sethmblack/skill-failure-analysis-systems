@@ -1,11 +1,10 @@
 ---
 name: failure-analysis-systems
-description: Analyze failures by examining systems rather than blaming individuals—distinguishing
-  errors of ignorance from errors of ineptitude. Based on Atul Gawande's methodology.
+description: Analyze failures by examining systems rather than blaming individuals—distinguishing errors of ignorance from errors of ineptitude. Based on Atul Gawande's methodology.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - failure-analysis-systems
 - writing
