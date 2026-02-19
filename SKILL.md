@@ -4,7 +4,8 @@ description: Analyze failures by examining systems rather than blaming individua
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3974
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - failure-analysis-systems
 - writing
